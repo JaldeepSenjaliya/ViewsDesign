@@ -13,6 +13,21 @@
 		26CAE03E2684F94700A54802 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26CAE03C2684F94700A54802 /* Main.storyboard */; };
 		26CAE0402684F94800A54802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26CAE03F2684F94800A54802 /* Assets.xcassets */; };
 		26CAE0432684F94800A54802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26CAE0412684F94800A54802 /* LaunchScreen.storyboard */; };
+		26CAE04E2684FFAE00A54802 /* OnboardingMiddleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE04B2684FFAE00A54802 /* OnboardingMiddleCell.swift */; };
+		26CAE04F2684FFAE00A54802 /* OnboardingFirstCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE04C2684FFAE00A54802 /* OnboardingFirstCell.swift */; };
+		26CAE0502684FFAE00A54802 /* OnboardingEndCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE04D2684FFAE00A54802 /* OnboardingEndCell.swift */; };
+		26CAE0542685002900A54802 /* WelcomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE0532685002900A54802 /* WelcomePageViewController.swift */; };
+		26CAE0582685038F00A54802 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE0552685038F00A54802 /* CircularProgressView.swift */; };
+		26CAE0592685038F00A54802 /* HistoryCardCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE0562685038F00A54802 /* HistoryCardCollectionView.swift */; };
+		26CAE05A2685038F00A54802 /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE0572685038F00A54802 /* NavigationBar.swift */; };
+		26CAE05C2685068800A54802 /* SetResolutionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE05B2685068800A54802 /* SetResolutionButton.swift */; };
+		26CAE05F2685095700A54802 /* ShowStataticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE05D2685095700A54802 /* ShowStataticsViewController.swift */; };
+		26CAE0602685095700A54802 /* StataticsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE05E2685095700A54802 /* StataticsTableViewCell.swift */; };
+		26CAE06326850A9100A54802 /* OrderBooksTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE06126850A9100A54802 /* OrderBooksTableViewCell.swift */; };
+		26CAE06426850A9100A54802 /* OrderBooksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE06226850A9100A54802 /* OrderBooksViewController.swift */; };
+		26CAE06726850B8500A54802 /* HomeScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE06526850B8500A54802 /* HomeScreenViewController.swift */; };
+		26CAE06826850B8500A54802 /* HomeVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE06626850B8500A54802 /* HomeVCTableViewCell.swift */; };
+		26CAE06A26850BF500A54802 /* ActivityDetailsProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CAE06926850BF500A54802 /* ActivityDetailsProgressBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		26CAE03F2684F94800A54802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26CAE0422684F94800A54802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26CAE0442684F94900A54802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26CAE04B2684FFAE00A54802 /* OnboardingMiddleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingMiddleCell.swift; sourceTree = "<group>"; };
+		26CAE04C2684FFAE00A54802 /* OnboardingFirstCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingFirstCell.swift; sourceTree = "<group>"; };
+		26CAE04D2684FFAE00A54802 /* OnboardingEndCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingEndCell.swift; sourceTree = "<group>"; };
+		26CAE0532685002900A54802 /* WelcomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePageViewController.swift; sourceTree = "<group>"; };
+		26CAE0552685038F00A54802 /* CircularProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		26CAE0562685038F00A54802 /* HistoryCardCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryCardCollectionView.swift; sourceTree = "<group>"; };
+		26CAE0572685038F00A54802 /* NavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBar.swift; sourceTree = "<group>"; };
+		26CAE05B2685068800A54802 /* SetResolutionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetResolutionButton.swift; sourceTree = "<group>"; };
+		26CAE05D2685095700A54802 /* ShowStataticsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowStataticsViewController.swift; sourceTree = "<group>"; };
+		26CAE05E2685095700A54802 /* StataticsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StataticsTableViewCell.swift; sourceTree = "<group>"; };
+		26CAE06126850A9100A54802 /* OrderBooksTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderBooksTableViewCell.swift; sourceTree = "<group>"; };
+		26CAE06226850A9100A54802 /* OrderBooksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderBooksViewController.swift; sourceTree = "<group>"; };
+		26CAE06526850B8500A54802 /* HomeScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeScreenViewController.swift; sourceTree = "<group>"; };
+		26CAE06626850B8500A54802 /* HomeVCTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVCTableViewCell.swift; sourceTree = "<group>"; };
+		26CAE06926850BF500A54802 /* ActivityDetailsProgressBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityDetailsProgressBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +86,7 @@
 		26CAE0352684F94700A54802 /* ImportantDesignViews */ = {
 			isa = PBXGroup;
 			children = (
+				26CAE04A2684FF9C00A54802 /* CTC Removed Files */,
 				26CAE0362684F94700A54802 /* AppDelegate.swift */,
 				26CAE0382684F94700A54802 /* SceneDelegate.swift */,
 				26CAE03A2684F94700A54802 /* ViewController.swift */,
@@ -65,6 +96,28 @@
 				26CAE0442684F94900A54802 /* Info.plist */,
 			);
 			path = ImportantDesignViews;
+			sourceTree = "<group>";
+		};
+		26CAE04A2684FF9C00A54802 /* CTC Removed Files */ = {
+			isa = PBXGroup;
+			children = (
+				26CAE04D2684FFAE00A54802 /* OnboardingEndCell.swift */,
+				26CAE04C2684FFAE00A54802 /* OnboardingFirstCell.swift */,
+				26CAE04B2684FFAE00A54802 /* OnboardingMiddleCell.swift */,
+				26CAE0552685038F00A54802 /* CircularProgressView.swift */,
+				26CAE0562685038F00A54802 /* HistoryCardCollectionView.swift */,
+				26CAE0572685038F00A54802 /* NavigationBar.swift */,
+				26CAE0532685002900A54802 /* WelcomePageViewController.swift */,
+				26CAE05B2685068800A54802 /* SetResolutionButton.swift */,
+				26CAE05D2685095700A54802 /* ShowStataticsViewController.swift */,
+				26CAE05E2685095700A54802 /* StataticsTableViewCell.swift */,
+				26CAE06126850A9100A54802 /* OrderBooksTableViewCell.swift */,
+				26CAE06226850A9100A54802 /* OrderBooksViewController.swift */,
+				26CAE06526850B8500A54802 /* HomeScreenViewController.swift */,
+				26CAE06926850BF500A54802 /* ActivityDetailsProgressBarView.swift */,
+				26CAE06626850B8500A54802 /* HomeVCTableViewCell.swift */,
+			);
+			path = "CTC Removed Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +191,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				26CAE03B2684F94700A54802 /* ViewController.swift in Sources */,
+				26CAE06726850B8500A54802 /* HomeScreenViewController.swift in Sources */,
+				26CAE0542685002900A54802 /* WelcomePageViewController.swift in Sources */,
+				26CAE0582685038F00A54802 /* CircularProgressView.swift in Sources */,
 				26CAE0372684F94700A54802 /* AppDelegate.swift in Sources */,
+				26CAE06426850A9100A54802 /* OrderBooksViewController.swift in Sources */,
 				26CAE0392684F94700A54802 /* SceneDelegate.swift in Sources */,
+				26CAE05A2685038F00A54802 /* NavigationBar.swift in Sources */,
+				26CAE04F2684FFAE00A54802 /* OnboardingFirstCell.swift in Sources */,
+				26CAE0502684FFAE00A54802 /* OnboardingEndCell.swift in Sources */,
+				26CAE05F2685095700A54802 /* ShowStataticsViewController.swift in Sources */,
+				26CAE0602685095700A54802 /* StataticsTableViewCell.swift in Sources */,
+				26CAE05C2685068800A54802 /* SetResolutionButton.swift in Sources */,
+				26CAE06A26850BF500A54802 /* ActivityDetailsProgressBarView.swift in Sources */,
+				26CAE0592685038F00A54802 /* HistoryCardCollectionView.swift in Sources */,
+				26CAE06826850B8500A54802 /* HomeVCTableViewCell.swift in Sources */,
+				26CAE04E2684FFAE00A54802 /* OnboardingMiddleCell.swift in Sources */,
+				26CAE06326850A9100A54802 /* OrderBooksTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
